@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Igor Miguel-Line 😁
+## Seja bem-vindo(a) ao perfil Igor Miguel-Line 😁
 
  <div>
    <a href="https://github.com/IgorMiguel-Line">
