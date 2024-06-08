@@ -14,7 +14,7 @@
  
 <br>
  
-### Para Contato pessoal, aqui estão minha redes sociais!
+### Para Contato pessoal, aqui estão meus contatos sociais!
  
 <div> 
   <a href="https://www.instagram.com/elysia__s2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
