@@ -8,14 +8,6 @@
 > Falando dos meus hobbies, eu gosto bastante de ler (Principalmente mangás), gosto de assistir animes, também gosto de ir há academia.
 
    <i>(Maranhão, MA - Brasil)</i>
-   
-- 🎓 Estudando programação Java;
-- 🎓 Estudando programação Python;
-- 🎓 Estudando programação HTML, CSS e JS;
-- 🎓 Estudando programação C e C#;
-- 🎓 Estudando programação Flutter;
-- 🎓 Estudando programação React Native;
-
 
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorMiguel-Line&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
