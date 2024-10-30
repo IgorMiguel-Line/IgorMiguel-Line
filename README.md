@@ -20,6 +20,14 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30" alt="java logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="30" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
