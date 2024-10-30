@@ -1,4 +1,4 @@
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" border-radius="30px">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
 ### Seja bem-vindo(a) ao perfil Igor Miguel-Line 😁
 
@@ -33,6 +33,10 @@
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
 </div>
