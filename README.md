@@ -1,4 +1,13 @@
 <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">## Seja bem-vindo(a) ao perfil Igor Miguel-Line 😁
+- 🙋‍♂️ Olá meu nome é Igor Miguel
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando programação Java;
+- 🎓 Estudando programação Python;
+- 🎓 Estudando programação HTML, CSS e JS;
+- 🎓 Estudando programação C e C#;
+- 🎓 Estudando programação Flutter;
+- 🎓 Estudando programação React Native;
+
 
  <div>
    <a href="https://github.com/IgorMiguel-Line">
