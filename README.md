@@ -1,4 +1,4 @@
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" border-radius="30px">
 
 ### Seja bem-vindo(a) ao perfil Igor Miguel-Line 😁
 
