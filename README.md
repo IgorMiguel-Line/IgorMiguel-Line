@@ -1,6 +1,14 @@
-<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">## Seja bem-vindo(a) ao perfil Igor Miguel-Line 😁
-- 🙋‍♂️ Olá meu nome é Igor Miguel
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+### Seja bem-vindo(a) ao perfil Igor Miguel-Line 😁
+
+###Sobre
+> Me chamo Igor Miguel, Tenho 17 anos e atualmente estou a estudar desenvolvimento WEB. Eu quando tinha 14 anos fiz um curso de design
+> gráfico, mas não me agradou, eu penso em seguir na aréa de DEV Mobile, que é uma aréa que gosto muito e acho interesante.
+> Falando dos meus hobbies, eu gosto bastante de ler (Principalmente mangás), gosto de assistir animes, também gosto de ir há academia.
+
+   <i>(Maranhão, MA - Brasil)</i>
+   
 - 🎓 Estudando programação Java;
 - 🎓 Estudando programação Python;
 - 🎓 Estudando programação HTML, CSS e JS;
