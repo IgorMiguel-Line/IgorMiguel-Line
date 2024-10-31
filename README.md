@@ -2,7 +2,7 @@
 
 ### Seja bem-vindo(a) ao perfil Igor Miguel-Line 😁
 
-###Sobre
+### Sobre
 > Me chamo Igor Miguel, Tenho 17 anos e atualmente estou estudando desenvolvimento WEB. Eu quando tinha 14 anos fiz um curso de design
 > gráfico, mas não me agradou. Eu penso em seguir na aréa de DEV Mobile, que é uma aréa que gosto muito e acho interesante.
 > Falando dos meus hobbies, eu gosto bastante de ler (Principalmente mangás), gosto de assistir animes, também gosto de ir à academia.
